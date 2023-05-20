@@ -13,10 +13,7 @@ Donate to remove backlink form the template.
 }
 body {
 	height: 100%;
-	font-family: 'Open Sans', sans-serif;
-
 	font-family: 'El Messiri', sans-serif;
-
 	font-size: 16px;
 	line-height: 1.7;
 	color: #666666;
@@ -42,7 +39,7 @@ p {
 	margin: 0 0 1em !important;
 }
 h1, h2, h3, h4, h5, h6, #home .heading strong {
-	font-family: 'El Messiri', sans-serif;
+	font-family: 'El Messiri', 'Raleway', sans-serif;
 }
 .fitImage {
 	max-width: 100%;
@@ -540,8 +537,8 @@ h2, .h2 {
 }
 .circle {
 	color: #590038;
-	height: 80px;
-	width: 80px;
+	height: 150px;
+	width: 150px;
 	border-radius: 90px;
 	background: transparent;
 	padding: 23px;
@@ -761,6 +758,7 @@ img, video, iframe, embed, object {
 }
 #aboutUs p{
 color: #212C29;
+font-size: large;
 }
 #aboutUs .feature {
 	margin-top: 30px;
@@ -1102,4 +1100,15 @@ nav#filter li {
 }
 li.active a {
 color: #FED400;
+}
+
+
+.mma p {
+	font-family: 'El Messiri', sans-serif;
+font-size: medium;
+}
+	
+
+.mma {
+	margin: auto;
 }
