@@ -668,7 +668,7 @@ a.arrow-link:hover {
 }
 .colord {
 	background: #23CA9D;
-	background: #F049B2;
+	background: #c23d3d;
 }
 .colord p {
 	color: #FFFFFF;
@@ -755,6 +755,7 @@ img, video, iframe, embed, object {
 	padding-bottom: 25px;
 	overflow: hidden;
 	color: #F049B2;
+	direction: rtl;
 }
 #aboutUs p{
 color: #212C29;
@@ -1085,7 +1086,7 @@ nav#filter li {
 }
 .parlex-back {
 	padding: 30px 0;
-	background-color: rgba(240, 73, 178, 1);
+	background-color: rgb(240, 73, 73);
 	color: #FDFDFD !important;
 }
 .parlex-back .heading p {
