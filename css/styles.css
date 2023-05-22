@@ -759,7 +759,9 @@ img, video, iframe, embed, object {
 }
 #aboutUs p{
 color: #212C29;
-font-size: medium;
+font-size: x-large;
+font-family: 'El Messiri', sans-serif;
+
 }
 #aboutUs .feature {
 	margin-top: 30px;
